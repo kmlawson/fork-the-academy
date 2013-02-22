@@ -4,7 +4,7 @@ Fork the Academy
 * summarize argument
 
 Open Access vs. Open Source 
--------------------------
+----------------------------
 
 The two movements are connected, with the open access movement drawing upon experiences and energy of an open source movement that has a longer history.
 
