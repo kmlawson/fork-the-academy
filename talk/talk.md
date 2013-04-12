@@ -77,6 +77,7 @@ Outline of the talk:
             * fails to acknowledge the variety of kids of creativity
         * and the rabbit hole of diffused authorship
             * creates anxiety and contributions will be drowned in the crowd
+        * fear of transparency
 
 ## Technical Obstacles
 
