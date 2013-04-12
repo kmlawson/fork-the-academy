@@ -4,6 +4,8 @@ An Introduction to GitHub and Git for Academic Scholarship
 ## Overview:
 
 1. Setting up a GitHub/git repository
+    * On GitHub.com
+    * Within the GitHub client
 
 2. Using the GitHub client software for the most common workflow
     * Create a file
