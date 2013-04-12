@@ -22,14 +22,54 @@ Outline of the talk:
 ## Open Access and Open Source
 
 * As researchers and teachers the open access movement has gotten a lot of inspiration from the open source world
-* But we still have not widely adopted some of its most powerful practices and tools: distributed versioning and direct collaborative production (at least for Historians), and the concept of "forking" or "branching" the products of our work so others can build directly on it.
-* Discuss the rise and the power of git and github in the software development world that is now used by over 3 million developers for over 5 million projects. Describe how the process forking code and collaborative development works.
+* Discusison of "green" vs "gold" - emphasis is on access
+* Discuss "gratis" vs "libre"
+    * the backlash in the UK setting
+    * CC-BY
+
+## Coding Together
+
+* Some of the practices and evolution of collaboration in the coding world
+* The development of version control systems
+    * Centralized vs.
+    * Distributed
+        * git
+
+## Collaboration without Collaboration
+
+* A flexible definition of collaboration - from the perspective of larger questions, or an organic community of scholars and scholarship
+* In academic scholarship we still have not widely adopted some of its most powerful practices and tools: distributed versioning and direct collaborative production (at least for Historians), and the concept of "forking" or "branching" the products of our work so others can build directly on it.
+* Discuss the rise and the power of github in the software development world that is now used by over 3 million developers for over 5 million projects. Describe how the process forking code and collaborative development works.
+
+## GitHub, Forking & Pull Requests
+
+* benefits of git
+* lower the bar to entry and accessibility
+    * introuction of simple client
+    * clean web interface
+    * rich visual interface for files and data on repositories
+    * 
+
+## Imagining Historical Scholarship and GitHub Approaches
+
+* Assumes: libre open access - that is fully open source
+* Scholarship of the past can be directly used and adapted 
+	* if whole repositories are forked, they will know who is using their work
+	* but always maintain their own copy
+* While maintaining attribution: every word has its origin, can cherry-pick in materials, or fork whole repositories of text and data.
+* Plagiarism won’t disappear, there will always be people who claim other people’s work as their own
+* An alternative to quotations and footnotes for many tasks - since the author of any given sentence can potentially be revealed in the repository’s git index
+
 * Talk about the two major types obstacles in social sciences and humanities for adopting the use of git-like versioning:
+
+## Disciplinary Obstacles
+
 	* the disciplinary obstacles - our attachment to authorship, legitimacy, and control over our scholarship
         * economy of citations
-        * fear of plagiarism
+        * taboo of plagiarism
+        * the danger of a "brick in the wall" approach
         * cult of originality
-        * and the rabbit hole
+        * and the rabbit hole of diffused authorship
 	2. the technical obstacles - would require that we embrace the "return to text" as our primary working format, and learn some of the skills of versioning platforms such as github
-5. Briefly introduce how it works for academic texts already.
 
+## Emerging Alternatives
