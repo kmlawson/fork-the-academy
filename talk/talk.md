@@ -66,10 +66,25 @@ Outline of the talk:
 
 	* the disciplinary obstacles - our attachment to authorship, legitimacy, and control over our scholarship
         * economy of citations
+            * adds to entrenchment of practices
         * taboo of plagiarism
+            * dissuades us from developing models for legitimate reuse
+        * Distaste for Incompleteness
+            * encourages a culture of secrecy
         * the danger of a "brick in the wall" approach
+            * may lead to positivist resurgence
         * cult of originality
+            * fails to acknowledge the variety of kids of creativity
         * and the rabbit hole of diffused authorship
+            * creates anxiety and contributions will be drowned in the crowd
+
+## Technical Obstacles
+
 	2. the technical obstacles - would require that we embrace the "return to text" as our primary working format, and learn some of the skills of versioning platforms such as github
 
 ## Emerging Alternatives
+
+ Authorea - authorea.com
+ Draft - draftin.com
+ Editorially - editorially.com
+ Scalar - scalar.usc.edu
