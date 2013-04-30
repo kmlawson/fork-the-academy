@@ -61,6 +61,8 @@ The creation of a wiki page, a document produced through repeated exchange, and 
 
 A repository on a hosted service like GitHub is created by a user or organization and all contributions accepted by this user and merged with the repository are saved in the version history of the document. However, the issues of authorship and credit do not end there. Anytime a repository is forked on GitHub, it remains a connection to its original, usually also acknowledged in the license or readme by the individual who "forked" it. Any work thus may exist simultaneously in hundreds or even thousands of forked versions, any of which may contain countless customizations, improvements, or new add
 
+On credit:
+http://nowviskie.org/2011/where-credit-is-due/
 $$$$$$$$$$$$$$$$$$$$$$$$$
 	
 
